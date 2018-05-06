@@ -2,6 +2,11 @@ package praktek02imam;
 public class Belah_Ketupat {
     double sisi;
     double panjang;
+
+    public Belah_Ketupat() {
+        sisi=7;
+        panjang=5;
+    }
     
     void cetakInfo(){
         System.out.println("======================");
