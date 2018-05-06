@@ -16,4 +16,9 @@ public class Belah_Ketupat {
         return keliling;
     }
     
+    void cetakKeliling(){
+        System.out.println("Kelilingnya adalah : "+hitungKeliling());
+    }
+    
+    
 }

@@ -8,5 +8,6 @@ public class Belah_KetupatAksi {
         
         rl.cetakInfo();
         System.out.println("Keliling Belah_Ketupat = "+rl.hitungKeliling());
+        rl.cetakKeliling();
     }
 }
