@@ -5,5 +5,7 @@ public class Belah_KetupatAksi {
         Belah_Ketupat rl = new Belah_Ketupat();
         rl.sisi = 5;
         rl.panjang = 7;
+        
+        rl.cetakInfo();
     }
 }
