@@ -7,6 +7,13 @@ public class Belah_Ketupat {
         sisi=7;
         panjang=5;
     }
+
+    public Belah_Ketupat(double sisi, double panjang) {
+        this.sisi = sisi;
+        this.panjang = panjang;
+    }
+    
+    
     
     void cetakInfo(){
         System.out.println("======================");
