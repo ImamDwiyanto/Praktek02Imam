@@ -7,5 +7,6 @@ public class Belah_KetupatAksi {
         rl.panjang = 7;
         
         rl.cetakInfo();
+        System.out.println("Keliling Belah_Ketupat = "+rl.hitungKeliling());
     }
 }

@@ -9,4 +9,11 @@ public class Belah_Ketupat {
         System.out.println("Panjang : "+panjang);
         System.out.println("======================");
     }
+    
+    double hitungKeliling(){
+        double keliling;
+        keliling=sisi*panjang;
+        return keliling;
+    }
+    
 }
